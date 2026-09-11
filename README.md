@@ -1,161 +1,147 @@
 # Hi, I'm Md Aquil 👋
 
-### QA Automation Engineer • Product Builder • Indie Developer
+### QA Automation Engineer • Product Builder
 
-I'm a **QA Automation Engineer and Product Builder** building practical software products, developer tools, AI-powered applications, and automation solutions.
+**Building practical software products @ Ziara TechQ Labs**
 
-I'm the builder behind **[Ziara TechQ Labs](https://www.ziaratechqlabs.in/)** — a technology venture focused on **AI, software development, QA automation, developer tools, and digital products**.
+I'm a **QA Automation Engineer and Product Builder** focused on building practical software products, AI-powered applications, developer tools, and automation solutions.
 
-My journey started in **Structural Engineering**, but my work today is focused on building, testing, automating, and shipping software products.
+My background is in **Structural Engineering**, but my work today revolves around **software, QA automation, AI, product engineering, and shipping real products**.
 
 ---
 
 ## 🚀 What I'm Building
 
-I enjoy turning real-world problems into simple, useful software — from developer tools and QA automation to web applications, Android apps, and AI-powered products.
+I build software that solves real-world problems — from **QA and developer tools** to **AI products, SaaS platforms, web applications, and Android apps**.
 
 ## 🟢 Live Products
 
 ### 🧪 [QAFakeAPI](https://qafakeapi.ziaratechqlabs.in/)
 
-A free mock REST API sandbox built for **QA engineers, SDETs, and developers** to practice API testing and automation with realistic mock data, JWT authentication, error simulation, latency injection, and stateful CRUD operations.
+Free mock REST API sandbox for **QA engineers, SDETs, and developers** to practice API testing and automation.
 
-**Built for:** API Testing · SDET Practice · Automation · Bruno · Postman · Playwright · Cypress
-
----
-
-### 🧾 [Ziara Invoice](https://www.ziaratechqlabs.in/mobileapps/ziara-invoice)
-
-A lightweight **Android invoicing app** for freelancers, small businesses, shop owners, and independent professionals.
-
-Create, manage, export, and share professional invoices with support for GST, taxes, discounts, client management, and offline-first usage.
-
-[Android App](https://play.google.com/store/apps/details?id=com.ziara.invoice)
+→ **[Live Demo](https://qafakeapi.ziaratechqlabs.in/)**
 
 ---
 
 ### 📄 [Ziara Converter](https://www.ziaratechqlabs.in/webapps/ziara-converter)
 
-A **privacy-first document and image conversion platform**, available as both a **web app and Android app**.
+Privacy-first document and image conversion tools available as a **Web App + Android App**.
 
-The web app provides PDF, image, and document utilities with client-side processing — files stay on the user's device instead of being uploaded to a server.
+🌐 **[Web App](https://converter.ziaratechqlabs.in/)** · 📱 **[Android App](https://play.google.com/store/apps/details?id=com.ziara.converter)**
 
-🌐 [Web App](https://converter.ziaratechqlabs.in/)
+---
 
-📱 [Android App](https://play.google.com/store/apps/details?id=com.ziara.converter)
+### 🧾 [Ziara Invoice](https://www.ziaratechqlabs.in/mobileapps/ziara-invoice)
+
+Android invoicing app designed for freelancers, small businesses, and professionals to create and manage professional invoices.
+
+→ **[Android App](https://play.google.com/store/apps/details?id=com.ziara.invoice)**
 
 ---
 
 ### 🎞️ [QuickSlide Studio](https://www.ziaratechqlabs.in/webapps/quickslide-studio)
 
-A free, privacy-first presentation and recording tool for educators and content creators.
+Privacy-first presentation, annotation, and recording tool that runs directly in the browser.
 
-Create slides, draw live annotations, add branding, present, and record directly in the browser — without signup or installation.
-
-🌐 [Launch QuickSlide Studio](https://studio.ziaratechqlabs.in/)
-
----
-
-### 🛒 [ZiaraKart](https://www.ziaratechqlabs.in/webapps/ziarakart)
-
-A fast **B2B FMCG storefront** designed for wholesalers and small businesses.
+→ **[Launch](https://studio.ziaratechqlabs.in/)**
 
 ---
 
 ### 🔄 [Flattiq](https://www.ziaratechqlabs.in/webapps/flattiq)
 
-A free browser-based **JSON ↔ CSV/Excel converter** with support for nested JSON flattening.
+Free browser-based **JSON ↔ CSV/Excel** converter with nested JSON flattening and client-side processing.
 
-Built with a privacy-first, client-side approach so data can be processed directly in the browser.
+→ **[Try Flattiq](https://json.ziaratechqlabs.in/)**
+
+---
+
+### 🛒 [ZiaraKart](https://www.ziaratechqlabs.in/webapps/ziarakart)
+
+B2B storefront platform designed for **wholesalers and small businesses**.
+
+→ **[Launch ZiaraKart](https://ziarakart.vercel.app/)**
 
 ---
 
 ### 🤖 [Auto-Mate](https://www.ziaratechqlabs.in/extensions/auto-mate)
 
-A Chrome automation tool that generates **Cypress automation code from browser interactions**, helping QA engineers turn manual web actions into automation faster.
+Browser automation tool that helps QA engineers turn browser interactions into **Cypress automation code**.
+
+→ **[Product Page](https://www.ziaratechqlabs.in/extensions/auto-mate)**
 
 ---
 
 ### 🐞 [UI Bug Detector](https://www.ziaratechqlabs.in/extensions/ui-bug-detector)
 
-A browser-based QA utility designed to help detect **UI, layout, responsiveness, and visual issues** and turn them into structured bug reports.
+Browser-based QA utility for identifying **UI, layout, responsiveness, and visual issues** and generating structured bug reports.
+
+→ **[Product Page](https://www.ziaratechqlabs.in/extensions/ui-bug-detector)**
 
 ---
 
-## 🔨 Current Projects
+## 🟡 Currently Building
 
-Some of the products I'm actively developing:
-
-* 📱 **RRB Exam Prep AI Mock TestGen** — AI-powered exam preparation and mock-test platform for RRB aspirants.
-* 🏗️ **Civil Diary** — A digital workspace for civil engineers to replace manual diaries and scattered WhatsApp-based project tracking.
+* 📸 QuickPix — Android app for quickly resizing and preparing photos for official government forms and document requirements.
+* 📱 **RRB Exam Prep AI Mock TestGen** — AI-powered mock-test and exam preparation platform for RRB aspirants.
+* 🏗️ **Civil Diary** — Digital workspace for civil engineers to replace manual diaries and scattered WhatsApp-based project tracking.
 * 📱 **Mobile Automation Tool** — Lightweight Android automation using plain-English / Hinglish commands.
-* 🧾 **DocParchi** — A prescription organization and reminder application.
+* 🧾 **DocParchi** — Prescription organization and reminder application.
 * 🤖 **ATS Resume Checker** — AI-powered resume scoring, rewriting, and interview preparation.
-* 🔳 **SmartQR Studio** — A modern QR creation and customization platform.
+* 🔳 **SmartQR Studio** — QR creation and customization platform.
 
 ---
 
 ## 🧠 What I Work On
 
-* 🤖 AI-powered applications & automation
 * 🧪 QA & Test Automation
-* 🌐 Web Applications & SaaS
-* 📱 Android Applications
+* 🤖 AI & Intelligent Automation
 * 🛠️ Developer Tools
-* 🔌 APIs & Backend Systems
-* ⚡ Productivity & Business Software
+* 🌐 Web & SaaS Products
+* 📱 Android Applications
 * 🚀 Product Engineering
 
 ---
 
 ## 🧰 Tech Stack
 
-### QA & Automation
+**QA & Automation**
 
 `Cypress` · `Playwright` · `JavaScript` · `TypeScript` · `API Testing` · `Bruno`
 
-### Development
+**Development**
 
 `JavaScript` · `TypeScript` · `Node.js` · `React` · `Next.js` · `Android` · `Kotlin`
 
-### AI & Product Engineering
+**AI & Product Engineering**
 
 `AI Integration` · `Automation` · `REST APIs` · `SaaS` · `Product Development`
 
 ---
 
-## 🏢 Ziara TechQ Labs
+## 💼 Work With Me
 
-**Ziara TechQ Labs** is my technology venture where I build and ship **AI-powered digital products, automation tools, developer utilities, web applications, and mobile apps**.
+Need help with **QA Automation, API Testing, test automation, web/mobile development, AI integration, or custom automation solutions?**
 
-We also work on:
+Through **Ziara TechQ Labs**, I work on building practical software and automation solutions for real-world problems.
 
-* Web & Mobile App Development
-* QA Testing & Automation
-* AI & Custom Automation
-* API & Backend Development
-* Product Engineering
-* Automation PoCs
-* Website Development & Maintenance
-
-> **Build useful software. Automate repetitive work. Ship reliable products.**
-
-🌐 **[Ziara TechQ Labs](https://www.ziaratechqlabs.in/)**
+🌐 **[Work with Ziara TechQ Labs](https://www.ziaratechqlabs.in/)**
 
 ---
 
-## 📂 GitHub
+## 🏢 Ziara TechQ Labs
 
-This profile contains a mix of:
+**Ziara TechQ Labs** is my technology venture focused on building **AI-powered digital products, developer tools, automation solutions, web applications, and mobile apps**.
 
-* 🧪 QA automation experiments and practice
-* 🌐 Web development projects
-* 📱 Product development
-* 🤖 AI experiments
-* 🛠️ Developer tooling
-* 📚 Learning & engineering resources
+> **Build useful software. Automate repetitive work. Ship reliable products.**
 
-Some repositories are experiments or learning projects, while others are actively developed products.
+🌐 **[ziaratechqlabs.in](https://www.ziaratechqlabs.in/)**
+
+---
+
+## 📂 Open Source & Experiments
+
+This profile includes **QA automation projects, developer tools, experiments, and selected product-development work** from my journey as a builder.
 
 ---
 
