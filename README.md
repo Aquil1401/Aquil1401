@@ -64,6 +64,14 @@ B2B storefront platform designed for **wholesalers and small businesses**.
 
 ---
 
+### ⚡ [ZiaraKart E2E Playwright Automation](https://github.com/Aquil1401/ziara_kart_playwright)
+
+Enterprise **Playwright + TypeScript (POM)** automation framework for ZiaraKart with 15 test suites, guest/dealer role testing, WhatsApp order payload assertion, and cross-repo CI/CD Quality Gates.
+
+→ **[View Automation Suite](https://github.com/Aquil1401/ziara_kart_playwright)** • **[Live CI Status](https://github.com/Aquil1401/ziara_kart_playwright/actions)**
+
+---
+
 ### 🤖 [Auto-Mate](https://www.ziaratechqlabs.in/extensions/auto-mate)
 
 Browser automation tool that helps QA engineers turn browser interactions into **Cypress automation code**.
@@ -141,7 +149,9 @@ Through **Ziara TechQ Labs**, I work on building practical software and automati
 
 ## 📂 Open Source & Experiments
 
-This profile includes **QA automation projects, developer tools, experiments, and selected product-development work** from my journey as a builder.
+This profile includes **QA automation projects, developer tools, experiments, and selected product-development work** from my journey as a builder:
+
+* ⚡ **[ZiaraKart Playwright Automation](https://github.com/Aquil1401/ziara_kart_playwright)** — Enterprise-grade Playwright + TypeScript test framework with Page Object Model, dynamic catalog loading handling, and automated cross-repo GitHub Actions regression gate.
 
 ---
 
@@ -155,3 +165,4 @@ This profile includes **QA automation projects, developer tools, experiments, an
 ---
 
 ### 🚀 Build → Test → Automate → Ship
+
