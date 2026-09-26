@@ -16,6 +16,14 @@ I build software that solves real-world problems — from **QA and developer too
 
 ## 🟢 Live Products
 
+### 🎯 [Ziara QA Labs](https://qa.ziaratechqlabs.in/)
+
+Specialized **Software Quality Assurance & Automation Services** platform delivering end-to-end web, mobile, API, and CI/CD testing solutions.
+
+→ **[Visit QA Website](https://qa.ziaratechqlabs.in/)** • **[GitHub Repository](https://github.com/Aquil1401/ztl-qa-services)**
+
+---
+
 ### 🧪 [QAFakeAPI](https://qafakeapi.ziaratechqlabs.in/)
 
 Free mock REST API sandbox for **QA engineers, SDETs, and developers** to practice API testing and automation.
@@ -133,7 +141,7 @@ Need help with **QA Automation, API Testing, test automation, web/mobile develop
 
 Through **Ziara TechQ Labs**, I work on building practical software and automation solutions for real-world problems.
 
-🌐 **[Work with Ziara TechQ Labs](https://www.ziaratechqlabs.in/)**
+🎯 **[Ziara QA Labs (QA & Automation Services)](https://qa.ziaratechqlabs.in/)** · 🌐 **[Ziara TechQ Labs](https://www.ziaratechqlabs.in/)**
 
 ---
 
@@ -157,6 +165,7 @@ This profile includes **QA automation projects, developer tools, experiments, an
 
 ## 📫 Connect With Me
 
+🎯 **Ziara QA Labs** — [qa.ziaratechqlabs.in](https://qa.ziaratechqlabs.in/)
 🌐 **Ziara TechQ Labs** — [ziaratechqlabs.in](https://www.ziaratechqlabs.in/)
 💼 **LinkedIn** — [Md Aquil](https://www.linkedin.com/in/md-aquil-qa/)
 📧 **Email** — [ziaratechqlabs@gmail.com](mailto:ziaratechqlabs@gmail.com)
