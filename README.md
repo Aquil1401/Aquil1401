@@ -101,11 +101,6 @@ Browser-based QA utility for identifying **UI, layout, responsiveness, and visua
 ## 🟡 Currently Building
 
 * 📸 QuickPix — Android app for quickly resizing and preparing photos for official government forms and document requirements.
-* 📱 **RRB Exam Prep AI Mock TestGen** — AI-powered mock-test and exam preparation platform for RRB aspirants.
-* 🏗️ **Civil Diary** — Digital workspace for civil engineers to replace manual diaries and scattered WhatsApp-based project tracking.
-* 📱 **Mobile Automation Tool** — Lightweight Android automation using plain-English / Hinglish commands.
-* 🧾 **DocParchi** — Prescription organization and reminder application.
-* 🤖 **ATS Resume Checker** — AI-powered resume scoring, rewriting, and interview preparation.
 * 🔳 **SmartQR Studio** — QR creation and customization platform.
 
 ---
