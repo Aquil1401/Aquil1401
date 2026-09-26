@@ -2,6 +2,8 @@
 
 ### QA Automation Engineer • Product Builder
 
+[![Open for QA Consulting](https://img.shields.io/badge/Open%20For-QA%20%26%20Automation%20Consulting-2ea44f?style=for-the-badge&logo=github)](https://qa.ziaratechqlabs.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aquil-qa/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZiaraTechQLabs)
+
 **Building practical software products @ Ziara TechQ Labs**
 
 I'm a **QA Automation Engineer and Product Builder** focused on building practical software products, AI-powered applications, developer tools, and automation solutions.
@@ -121,17 +123,13 @@ Browser-based QA utility for identifying **UI, layout, responsiveness, and visua
 
 ## 🧰 Tech Stack
 
-**QA & Automation**
+### 🧪 QA & Test Automation
 
-`Cypress` · `Playwright` · `JavaScript` · `TypeScript` · `API Testing` · `Bruno`
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Development**
+### 💻 Software & Product Engineering
 
-`JavaScript` · `TypeScript` · `Node.js` · `React` · `Next.js` · `Android` · `Kotlin`
-
-**AI & Product Engineering**
-
-`AI Integration` · `Automation` · `REST APIs` · `SaaS` · `Product Development`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
