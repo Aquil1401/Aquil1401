@@ -20,7 +20,7 @@ I build software that solves real-world problems — from **QA and developer too
 
 Specialized **Software Quality Assurance & Automation Services** platform delivering end-to-end web, mobile, API, and CI/CD testing solutions.
 
-→ **[Visit QA Website](https://qa.ziaratechqlabs.in/)** • **[GitHub Repository](https://github.com/Aquil1401/ztl-qa-services)**
+→ **[Visit QA Website](https://qa.ziaratechqlabs.in/)** 
 
 ---
 
