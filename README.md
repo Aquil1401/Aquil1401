@@ -2,7 +2,7 @@
 
 ### QA Automation Engineer • Product Builder
 
-[![Open for QA Consulting](https://img.shields.io/badge/Open%20For-QA%20%26%20Automation%20Consulting-2ea44f?style=for-the-badge&logo=github)](https://qa.ziaratechqlabs.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aquil-qa/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZiaraTechQLabs)
+[![Open for Opportunities](https://img.shields.io/badge/Open%20To-Full--Time%20Roles%20%26%20QA%20Consulting-2ea44f?style=for-the-badge&logo=github)](https://www.linkedin.com/in/md-aquil-qa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aquil-qa/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZiaraTechQLabs)
 
 **Building practical software products @ Ziara TechQ Labs**
 
