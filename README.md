@@ -38,7 +38,7 @@ Free mock REST API sandbox for **QA engineers, SDETs, and developers** to practi
 
 Privacy-first document and image conversion tools available as a **Web App + Android App**.
 
-🌐 **[Web App](https://converter.ziaratechqlabs.in/)** · 📱 **[Android App](https://play.google.com/store/apps/details?id=com.ziara.converter)**
+🌐 **[Web App](https://converter.ziaratechqlabs.in/)** · 📱 **[Android App](https://play.google.com/store/apps/details?id=com.ziara.converter)** · 🧪 **[Cypress Automation Suite](https://github.com/Aquil1401/ziara_converter_web_cypress)**
 
 ---
 
@@ -87,6 +87,14 @@ Enterprise **Playwright + TypeScript (POM)** automation framework for ZiaraKart 
 Enterprise **Cypress + JavaScript (POM)** automation framework for ZiaraKart featuring 15 test suites, Mochawesome HTML reporting, guest/dealer role workflows, dynamic WhatsApp order interception, and matrix parallelized CI/CD Quality Gates.
 
 → **[View Automation Suite](https://github.com/Aquil1401/ziara_kart_cypress)** • **[Live CI Status](https://github.com/Aquil1401/ziara_kart_cypress/actions)**
+
+---
+
+### 🔄 [Ziara Converter E2E Cypress Automation](https://github.com/Aquil1401/ziara_converter_web_cypress)
+
+Enterprise **Cypress + JavaScript (POM)** test automation framework for Ziara Converter web app featuring 7 comprehensive test suites (36 passing tests), Mochawesome HTML reporting, full functional validation of PDF Merger, JPG to PDF conversion, Image Resizer & Compressor, dynamic format converters, and GitHub Actions CI/CD Quality Gates.
+
+→ **[View Automation Suite](https://github.com/Aquil1401/ziara_converter_web_cypress)** • **[Live CI Status](https://github.com/Aquil1401/ziara_converter_web_cypress/actions)**
 
 ---
 
@@ -163,6 +171,7 @@ This profile includes **QA automation projects, developer tools, experiments, an
 
 * ⚡ **[ZiaraKart Playwright Automation](https://github.com/Aquil1401/ziara_kart_playwright)** — Enterprise-grade Playwright + TypeScript test framework with Page Object Model, dynamic catalog loading handling, and automated cross-repo GitHub Actions regression gate.
 * 🌲 **[ZiaraKart Cypress Automation](https://github.com/Aquil1401/ziara_kart_cypress)** — Enterprise-grade Cypress + JavaScript test framework with Page Object Model, dynamic assertion-driven waits, Mochawesome reporting, and parallel matrix CI/CD regression gates.
+* 🔄 **[Ziara Converter Cypress Automation](https://github.com/Aquil1401/ziara_converter_web_cypress)** — Comprehensive Cypress + JavaScript test automation framework with Page Object Model, canvas/PDF functional verification, file conversion validations, Mochawesome reports, and CI/CD Quality Gates.
 
 ---
 
