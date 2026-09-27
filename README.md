@@ -82,6 +82,15 @@ Enterprise **Playwright + TypeScript (POM)** automation framework for ZiaraKart 
 
 ---
 
+### 🌲 [ZiaraKart E2E Cypress Automation](https://github.com/Aquil1401/ziara_kart_cypress)
+
+Enterprise **Cypress + JavaScript (POM)** automation framework for ZiaraKart featuring 15 test suites, Mochawesome HTML reporting, guest/dealer role workflows, dynamic WhatsApp order interception, and matrix parallelized CI/CD Quality Gates.
+
+→ **[View Automation Suite](https://github.com/Aquil1401/ziara_kart_cypress)** • **[Live CI Status](https://github.com/Aquil1401/ziara_kart_cypress/actions)**
+
+---
+
+
 ### 🤖 [Auto-Mate](https://www.ziaratechqlabs.in/extensions/auto-mate)
 
 Browser automation tool that helps QA engineers turn browser interactions into **Cypress automation code**.
@@ -153,6 +162,7 @@ Through **Ziara TechQ Labs**, I work on building practical software and automati
 This profile includes **QA automation projects, developer tools, experiments, and selected product-development work** from my journey as a builder:
 
 * ⚡ **[ZiaraKart Playwright Automation](https://github.com/Aquil1401/ziara_kart_playwright)** — Enterprise-grade Playwright + TypeScript test framework with Page Object Model, dynamic catalog loading handling, and automated cross-repo GitHub Actions regression gate.
+* 🌲 **[ZiaraKart Cypress Automation](https://github.com/Aquil1401/ziara_kart_cypress)** — Enterprise-grade Cypress + JavaScript test framework with Page Object Model, dynamic assertion-driven waits, Mochawesome reporting, and parallel matrix CI/CD regression gates.
 
 ---
 
