@@ -30,7 +30,7 @@ Specialized **Software Quality Assurance & Automation Services** platform delive
 
 Free mock REST API sandbox for **QA engineers, SDETs, and developers** to practice API testing and automation.
 
-→ **[Live Demo](https://qafakeapi.ziaratechqlabs.in/)**
+→ **[Live Demo](https://qafakeapi.ziaratechqlabs.in/)** • **[Bruno Automation Suite](https://github.com/Aquil1401/qafakeapi_bruno_api)**
 
 ---
 
@@ -95,6 +95,14 @@ Enterprise **Cypress + JavaScript (POM)** automation framework for ZiaraKart fea
 Enterprise **Cypress + JavaScript (POM)** test automation framework for Ziara Converter web app featuring 7 comprehensive test suites (36 passing tests), Mochawesome HTML reporting, full functional validation of PDF Merger, JPG to PDF conversion, Image Resizer & Compressor, dynamic format converters, and GitHub Actions CI/CD Quality Gates.
 
 → **[View Automation Suite](https://github.com/Aquil1401/ziara_converter_web_cypress)** • **[Live CI Status](https://github.com/Aquil1401/ziara_converter_web_cypress/actions)**
+
+---
+
+### 🍞 [QAFakeAPI Enterprise Bruno API Automation](https://github.com/Aquil1401/qafakeapi_bruno_api)
+
+Enterprise **Bruno + JavaScript (Chai BDD)** REST API test automation framework for QAFakeAPI sandbox featuring 25 requests across 7 suites (81 passing tests, 94 assertions), automated JWT bearer token chaining, dynamic CRUD lifecycle validation, chaos & latency simulations, and GitHub Actions CI/CD regression gates with HTML/JUnit reporting.
+
+→ **[View Automation Suite](https://github.com/Aquil1401/qafakeapi_bruno_api)** • **[Live CI Status](https://github.com/Aquil1401/qafakeapi_bruno_api/actions)**
 
 ---
 
@@ -172,6 +180,7 @@ This profile includes **QA automation projects, developer tools, experiments, an
 * ⚡ **[ZiaraKart Playwright Automation](https://github.com/Aquil1401/ziara_kart_playwright)** — Enterprise-grade Playwright + TypeScript test framework with Page Object Model, dynamic catalog loading handling, and automated cross-repo GitHub Actions regression gate.
 * 🌲 **[ZiaraKart Cypress Automation](https://github.com/Aquil1401/ziara_kart_cypress)** — Enterprise-grade Cypress + JavaScript test framework with Page Object Model, dynamic assertion-driven waits, Mochawesome reporting, and parallel matrix CI/CD regression gates.
 * 🔄 **[Ziara Converter Cypress Automation](https://github.com/Aquil1401/ziara_converter_web_cypress)** — Comprehensive Cypress + JavaScript test automation framework with Page Object Model, canvas/PDF functional verification, file conversion validations, Mochawesome reports, and CI/CD Quality Gates.
+* 🍞 **[QAFakeAPI Bruno API Automation](https://github.com/Aquil1401/qafakeapi_bruno_api)** — Enterprise-grade Bruno + JavaScript (Chai BDD) REST API test automation framework with 25 requests (81 tests, 94 assertions), automated JWT token chaining, CRUD lifecycle verification, chaos simulation, and GitHub Actions CI/CD regression gates.
 
 ---
 
